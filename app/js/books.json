@@ -1,0 +1,55 @@
+[
+  {
+    "book1": {
+      "book": {
+        "name": "Jungle",
+        "author": "Ron Deg",
+        "genre": "poem",
+        "content": "There was great story about Bear and guy!"
+      },
+      "author": {
+        "name": "Ron Deg",
+        "biograph": "Was born in Topate",
+        "listOfBooks": [
+          "Jungle",
+          "Gost in the dark",
+          "Black cat"
+        ]
+      }
+    },
+    "book2": {
+      "book": {
+        "name": "Demon",
+        "author": "Jack Pot",
+        "genre": "Fairy tail",
+        "content": "There was great story black dog Demon!"
+      },
+      "author": {
+        "name": "Jack Pot",
+        "biograph": "Was born in Kipitu",
+        "listOfBooks": [
+          "Demon",
+          "White Dove",
+          "Gentelmen"
+        ]
+      }
+    },
+    "book3": {
+      "book": {
+        "name": "Lenin Vasia",
+        "author": "Carl Marks",
+        "genre": "Fairy tail",
+        "content": "There was great story about someone!"
+      },
+      "author": {
+        "name": "Carl Marks",
+        "biograph": "Was born in Kurlua",
+        "listOfBooks": [
+          "Lenin Vasia",
+          "Potate",
+          "Eagle"
+        ]
+      }
+    }
+  }
+]
